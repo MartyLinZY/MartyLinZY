@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 <!--//- 😄 Pronouns: ...
 //- ⚡ Fun fact: ...-->
 
+<!--
 <table frame=void>
   <tbody>
     <tr>
@@ -20,7 +21,8 @@ Here are some ideas to get you started:
       <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=martylin&langs_count=6" ></td>
     </tr>
   </tbody>
-</table>
+</table>-->
+
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
