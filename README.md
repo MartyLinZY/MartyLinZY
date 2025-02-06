@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Testing for Distributed systems and DL frameworks.
+- 🔭 I’m currently working on Testing for **Distributed systems** and **DL frameworks**.
 - 🤔 I’m looking for help with my algorithm and AoC contest.
 - 💬 Ask me about anything! 
 - 📫 How to reach me: zheyuanlin@smail.nju.edu.cn
